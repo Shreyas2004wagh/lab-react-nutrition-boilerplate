@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import FoodBox from './components/Foodbox'
+import FoodBox from './components/FoodBox.jsx'
 import FoodData from './resources/FoodData'
 
 export default class App extends Component {
